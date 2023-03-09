@@ -1,0 +1,10 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -10,7 +10,7 @@
+     </script>
+   </head>
+   <body>
+-    <div id="unityContainer" style="width: 1920px; height: 1080px; margin: auto"></div>
++    <div id="unityContainer" style="width: 900px; height: 600px; margin: auto"></div>
+     <div id="unity-fullscreen-button"></div>
+   </body>
+ </html>
